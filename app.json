@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Escape Plan",
+    "slug": "escape-plan",
+    "scheme": "escapeplan",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.escapeplan.app"
+    }
+  }
+}
